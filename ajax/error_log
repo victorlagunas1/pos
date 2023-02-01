@@ -1,0 +1,689 @@
+[12-Feb-2021 02:50:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method AjaxCotizaciones::ctrAceptarCotizacion() in /home/mixst936/public_html/pos/ajax/cotizaciones.ajax.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/cotizaciones.ajax.php on line 48
+[12-Feb-2021 02:50:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method AjaxCotizaciones::ctrAceptarCotizacion() in /home/mixst936/public_html/pos/ajax/cotizaciones.ajax.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/cotizaciones.ajax.php on line 48
+[12-Feb-2021 02:50:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method AjaxCotizaciones::ctrAceptarCotizacion() in /home/mixst936/public_html/pos/ajax/cotizaciones.ajax.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/cotizaciones.ajax.php on line 48
+[12-Feb-2021 02:50:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method AjaxCotizaciones::ctrAceptarCotizacion() in /home/mixst936/public_html/pos/ajax/cotizaciones.ajax.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/cotizaciones.ajax.php on line 48
+[12-Feb-2021 02:50:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method AjaxCotizaciones::ctrAceptarCotizacion() in /home/mixst936/public_html/pos/ajax/cotizaciones.ajax.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/cotizaciones.ajax.php on line 48
+[12-Feb-2021 02:58:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method AjaxCotizaciones::ctrAceptarCotizacion() in /home/mixst936/public_html/pos/ajax/cotizaciones.ajax.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/cotizaciones.ajax.php on line 48
+[12-Feb-2021 02:58:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method AjaxCotizaciones::ctrAceptarCotizacion() in /home/mixst936/public_html/pos/ajax/cotizaciones.ajax.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/cotizaciones.ajax.php on line 48
+[12-Feb-2021 02:58:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method AjaxCotizaciones::ctrAceptarCotizacion() in /home/mixst936/public_html/pos/ajax/cotizaciones.ajax.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/cotizaciones.ajax.php on line 48
+[12-Feb-2021 02:58:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method AjaxCotizaciones::ctrAceptarCotizacion() in /home/mixst936/public_html/pos/ajax/cotizaciones.ajax.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/cotizaciones.ajax.php on line 48
+[12-Feb-2021 02:58:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method AjaxCotizaciones::ctrAceptarCotizacion() in /home/mixst936/public_html/pos/ajax/cotizaciones.ajax.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/cotizaciones.ajax.php on line 48
+[12-Feb-2021 12:56:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method AjaxCotizaciones::ctrAceptarCotizacion() in /home/mixst936/public_html/pos/ajax/cotizaciones.ajax.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/cotizaciones.ajax.php on line 48
+[12-Feb-2021 12:56:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method AjaxCotizaciones::ctrAceptarCotizacion() in /home/mixst936/public_html/pos/ajax/cotizaciones.ajax.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/cotizaciones.ajax.php on line 48
+[12-Feb-2021 12:56:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method AjaxCotizaciones::ctrAceptarCotizacion() in /home/mixst936/public_html/pos/ajax/cotizaciones.ajax.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/cotizaciones.ajax.php on line 48
+[12-Feb-2021 20:37:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method AjaxCotizaciones::ctrAceptarCotizacion() in /home/mixst936/public_html/pos/ajax/cotizaciones.ajax.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/cotizaciones.ajax.php on line 48
+[12-Feb-2021 20:37:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method AjaxCotizaciones::ctrAceptarCotizacion() in /home/mixst936/public_html/pos/ajax/cotizaciones.ajax.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/cotizaciones.ajax.php on line 48
+[12-Feb-2021 20:37:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method AjaxCotizaciones::ctrAceptarCotizacion() in /home/mixst936/public_html/pos/ajax/cotizaciones.ajax.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/cotizaciones.ajax.php on line 48
+[12-Feb-2021 20:37:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method AjaxCotizaciones::ctrAceptarCotizacion() in /home/mixst936/public_html/pos/ajax/cotizaciones.ajax.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/cotizaciones.ajax.php on line 48
+[12-Feb-2021 20:37:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method AjaxCotizaciones::ctrAceptarCotizacion() in /home/mixst936/public_html/pos/ajax/cotizaciones.ajax.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/cotizaciones.ajax.php on line 48
+[12-Feb-2021 20:37:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method AjaxCotizaciones::ctrAceptarCotizacion() in /home/mixst936/public_html/pos/ajax/cotizaciones.ajax.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/cotizaciones.ajax.php on line 48
+[12-Feb-2021 20:37:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method AjaxCotizaciones::ctrAceptarCotizacion() in /home/mixst936/public_html/pos/ajax/cotizaciones.ajax.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/cotizaciones.ajax.php on line 48
+[12-Feb-2021 20:37:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method AjaxCotizaciones::ctrAceptarCotizacion() in /home/mixst936/public_html/pos/ajax/cotizaciones.ajax.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/cotizaciones.ajax.php on line 48
+[12-Feb-2021 20:37:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method AjaxCotizaciones::ctrAceptarCotizacion() in /home/mixst936/public_html/pos/ajax/cotizaciones.ajax.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/cotizaciones.ajax.php on line 48
+[12-Feb-2021 20:37:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method AjaxCotizaciones::ctrAceptarCotizacion() in /home/mixst936/public_html/pos/ajax/cotizaciones.ajax.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/cotizaciones.ajax.php on line 48
+[12-Feb-2021 20:38:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method AjaxCotizaciones::ctrAceptarCotizacion() in /home/mixst936/public_html/pos/ajax/cotizaciones.ajax.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/cotizaciones.ajax.php on line 48
+[12-Feb-2021 20:38:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method AjaxCotizaciones::ctrAceptarCotizacion() in /home/mixst936/public_html/pos/ajax/cotizaciones.ajax.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/cotizaciones.ajax.php on line 48
+[12-Feb-2021 20:38:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method AjaxCotizaciones::ctrAceptarCotizacion() in /home/mixst936/public_html/pos/ajax/cotizaciones.ajax.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/cotizaciones.ajax.php on line 48
+[16-Feb-2021 02:33:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method AjaxCotizaciones::ctrAceptarCotizacion() in /home/mixst936/public_html/pos/ajax/cotizaciones.ajax.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/cotizaciones.ajax.php on line 48
+[16-Feb-2021 16:18:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method AjaxCotizaciones::ctrAceptarCotizacion() in /home/mixst936/public_html/pos/ajax/cotizaciones.ajax.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/cotizaciones.ajax.php on line 48
+[16-Feb-2021 16:18:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method AjaxCotizaciones::ctrAceptarCotizacion() in /home/mixst936/public_html/pos/ajax/cotizaciones.ajax.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/cotizaciones.ajax.php on line 48
+[16-Feb-2021 16:33:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method AjaxCotizaciones::ctrAceptarCotizacion() in /home/mixst936/public_html/pos/ajax/cotizaciones.ajax.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/cotizaciones.ajax.php on line 48
+[16-Feb-2021 16:35:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method AjaxCotizaciones::ctrAceptarCotizacion() in /home/mixst936/public_html/pos/ajax/cotizaciones.ajax.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/cotizaciones.ajax.php on line 48
+[16-Feb-2021 16:35:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method AjaxCotizaciones::ctrAceptarCotizacion() in /home/mixst936/public_html/pos/ajax/cotizaciones.ajax.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/cotizaciones.ajax.php on line 48
+[16-Feb-2021 16:35:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method AjaxCotizaciones::ctrAceptarCotizacion() in /home/mixst936/public_html/pos/ajax/cotizaciones.ajax.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/cotizaciones.ajax.php on line 48
+[16-Feb-2021 16:35:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method AjaxCotizaciones::ctrAceptarCotizacion() in /home/mixst936/public_html/pos/ajax/cotizaciones.ajax.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/cotizaciones.ajax.php on line 48
+[16-Feb-2021 16:35:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method AjaxCotizaciones::ctrAceptarCotizacion() in /home/mixst936/public_html/pos/ajax/cotizaciones.ajax.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/cotizaciones.ajax.php on line 48
+[16-Feb-2021 16:35:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method AjaxCotizaciones::ctrAceptarCotizacion() in /home/mixst936/public_html/pos/ajax/cotizaciones.ajax.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/cotizaciones.ajax.php on line 48
+[16-Feb-2021 16:35:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method AjaxCotizaciones::ctrAceptarCotizacion() in /home/mixst936/public_html/pos/ajax/cotizaciones.ajax.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/cotizaciones.ajax.php on line 48
+[16-Feb-2021 20:28:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method AjaxCotizaciones::ctrAceptarCotizacion() in /home/mixst936/public_html/pos/ajax/cotizaciones.ajax.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/cotizaciones.ajax.php on line 48
+[16-Feb-2021 20:28:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method AjaxCotizaciones::ctrAceptarCotizacion() in /home/mixst936/public_html/pos/ajax/cotizaciones.ajax.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/cotizaciones.ajax.php on line 48
+[20-Feb-2021 05:31:13 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function ControladorRefacciones::ctrMostrarRefaccionesSucursal(), 2 passed in /home/mixst936/public_html/pos/ajax/datatable-refacciones.ajax.php on line 79 and exactly 3 expected in /home/mixst936/public_html/pos/controladores/refacciones.controlador.php:198
+Stack trace:
+#0 /home/mixst936/public_html/pos/ajax/datatable-refacciones.ajax.php(79): ControladorRefacciones::ctrMostrarRefaccionesSucursal('codigo', '2021343')
+#1 /home/mixst936/public_html/pos/ajax/datatable-refacciones.ajax.php(130): TablaRefacciones->mostrarTablaRefacciones()
+#2 {main}
+  thrown in /home/mixst936/public_html/pos/controladores/refacciones.controlador.php on line 198
+[20-Feb-2021 05:37:20 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function ControladorRefacciones::ctrMostrarRefaccionesSucursal(), 2 passed in /home/mixst936/public_html/pos/ajax/datatable-refacciones.ajax.php on line 79 and exactly 3 expected in /home/mixst936/public_html/pos/controladores/refacciones.controlador.php:198
+Stack trace:
+#0 /home/mixst936/public_html/pos/ajax/datatable-refacciones.ajax.php(79): ControladorRefacciones::ctrMostrarRefaccionesSucursal('codigo', '168871')
+#1 /home/mixst936/public_html/pos/ajax/datatable-refacciones.ajax.php(130): TablaRefacciones->mostrarTablaRefacciones()
+#2 {main}
+  thrown in /home/mixst936/public_html/pos/controladores/refacciones.controlador.php on line 198
+[09-Apr-2021 18:44:52 UTC] PHP Fatal error:  Uncaught Error: Class 'ControladorConfiguradorReparaciones' not found in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php:22
+Stack trace:
+#0 /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php(38): AjaxConfiguracionReparaciones->ajaxEditarConfiguracionReparacion()
+#1 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php on line 22
+[10-Apr-2021 15:04:47 UTC] PHP Fatal error:  Uncaught Error: Class 'ControladorConfiguradorReparaciones' not found in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php:22
+Stack trace:
+#0 /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php(38): AjaxConfiguracionReparaciones->ajaxEditarConfiguracionReparacion()
+#1 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php on line 22
+[10-Apr-2021 17:32:55 UTC] PHP Fatal error:  Uncaught Error: Class 'ControladorConfiguradorReparaciones' not found in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php:22
+Stack trace:
+#0 /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php(38): AjaxConfiguracionReparaciones->ajaxEditarConfiguracionReparacion()
+#1 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php on line 22
+[24-Apr-2021 05:47:45 UTC] PHP Fatal error:  Uncaught Error: Class 'ControladorConfiguradorReparaciones' not found in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php:22
+Stack trace:
+#0 /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php(38): AjaxConfiguracionReparaciones->ajaxEditarConfiguracionReparacion()
+#1 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php on line 22
+[24-Apr-2021 05:48:07 UTC] PHP Fatal error:  Uncaught Error: Class 'ControladorConfiguradorReparaciones' not found in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php:22
+Stack trace:
+#0 /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php(38): AjaxConfiguracionReparaciones->ajaxEditarConfiguracionReparacion()
+#1 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php on line 22
+[24-Apr-2021 05:48:20 UTC] PHP Fatal error:  Uncaught Error: Class 'ControladorConfiguradorReparaciones' not found in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php:22
+Stack trace:
+#0 /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php(38): AjaxConfiguracionReparaciones->ajaxEditarConfiguracionReparacion()
+#1 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php on line 22
+[24-Apr-2021 05:49:49 UTC] PHP Fatal error:  Uncaught Error: Class 'ControladorConfiguradorReparaciones' not found in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php:22
+Stack trace:
+#0 /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php(38): AjaxConfiguracionReparaciones->ajaxEditarConfiguracionReparacion()
+#1 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php on line 22
+[24-Apr-2021 05:50:53 UTC] PHP Fatal error:  Uncaught Error: Class 'ControladorConfiguradorReparaciones' not found in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php:22
+Stack trace:
+#0 /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php(38): AjaxConfiguracionReparaciones->ajaxEditarConfiguracionReparacion()
+#1 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php on line 22
+[24-Apr-2021 05:51:10 UTC] PHP Fatal error:  Uncaught Error: Class 'ControladorConfiguradorReparaciones' not found in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php:22
+Stack trace:
+#0 /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php(38): AjaxConfiguracionReparaciones->ajaxEditarConfiguracionReparacion()
+#1 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php on line 22
+[24-Apr-2021 05:51:33 UTC] PHP Fatal error:  Uncaught Error: Class 'ControladorConfiguradorReparaciones' not found in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php:22
+Stack trace:
+#0 /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php(38): AjaxConfiguracionReparaciones->ajaxEditarConfiguracionReparacion()
+#1 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php on line 22
+[24-Apr-2021 05:54:36 UTC] PHP Fatal error:  Uncaught Error: Class 'ControladorConfiguradorReparaciones' not found in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php:22
+Stack trace:
+#0 /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php(38): AjaxConfiguracionReparaciones->ajaxEditarConfiguracionReparacion()
+#1 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php on line 22
+[24-Apr-2021 05:55:06 UTC] PHP Fatal error:  Uncaught Error: Class 'ControladorConfiguradorReparaciones' not found in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php:22
+Stack trace:
+#0 /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php(38): AjaxConfiguracionReparaciones->ajaxEditarConfiguracionReparacion()
+#1 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php on line 22
+[24-Apr-2021 05:56:22 UTC] PHP Fatal error:  Uncaught Error: Class 'ControladorConfiguradorReparaciones' not found in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php:22
+Stack trace:
+#0 /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php(38): AjaxConfiguracionReparaciones->ajaxEditarConfiguracionReparacion()
+#1 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php on line 22
+[24-Apr-2021 05:56:28 UTC] PHP Fatal error:  Uncaught Error: Class 'ControladorConfiguradorReparaciones' not found in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php:22
+Stack trace:
+#0 /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php(38): AjaxConfiguracionReparaciones->ajaxEditarConfiguracionReparacion()
+#1 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php on line 22
+[24-Apr-2021 06:02:08 UTC] PHP Fatal error:  Uncaught Error: Class 'ControladorConfiguradorReparaciones' not found in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php:22
+Stack trace:
+#0 /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php(38): AjaxConfiguracionReparaciones->ajaxEditarConfiguracionReparacion()
+#1 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php on line 22
+[24-Apr-2021 06:35:16 UTC] PHP Fatal error:  Uncaught Error: Class 'ControladorConfiguradorReparaciones' not found in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php:22
+Stack trace:
+#0 /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php(38): AjaxConfiguracionReparaciones->ajaxEditarConfiguracionReparacion()
+#1 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php on line 22
+[24-Apr-2021 06:35:36 UTC] PHP Fatal error:  Uncaught Error: Class 'ControladorConfiguradorReparaciones' not found in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php:22
+Stack trace:
+#0 /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php(38): AjaxConfiguracionReparaciones->ajaxEditarConfiguracionReparacion()
+#1 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php on line 22
+[24-Apr-2021 06:35:45 UTC] PHP Fatal error:  Uncaught Error: Class 'ControladorConfiguradorReparaciones' not found in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php:22
+Stack trace:
+#0 /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php(38): AjaxConfiguracionReparaciones->ajaxEditarConfiguracionReparacion()
+#1 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php on line 22
+[24-Apr-2021 06:37:10 UTC] PHP Fatal error:  Uncaught Error: Class 'ControladorConfiguradorReparaciones' not found in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php:22
+Stack trace:
+#0 /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php(38): AjaxConfiguracionReparaciones->ajaxEditarConfiguracionReparacion()
+#1 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php on line 22
+[24-Apr-2021 06:40:08 UTC] PHP Fatal error:  Uncaught Error: Class 'ControladorConfiguradorReparaciones' not found in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php:22
+Stack trace:
+#0 /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php(38): AjaxConfiguracionReparaciones->ajaxEditarConfiguracionReparacion()
+#1 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php on line 22
+[24-Apr-2021 06:40:24 UTC] PHP Fatal error:  Uncaught Error: Class 'ControladorConfiguradorReparaciones' not found in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php:22
+Stack trace:
+#0 /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php(38): AjaxConfiguracionReparaciones->ajaxEditarConfiguracionReparacion()
+#1 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php on line 22
+[24-Apr-2021 06:42:21 UTC] PHP Fatal error:  Uncaught Error: Class 'ControladorConfiguradorReparaciones' not found in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php:22
+Stack trace:
+#0 /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php(38): AjaxConfiguracionReparaciones->ajaxEditarConfiguracionReparacion()
+#1 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php on line 22
+[24-Apr-2021 07:01:18 UTC] PHP Fatal error:  Uncaught Error: Class 'ControladorConfiguradorReparaciones' not found in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php:22
+Stack trace:
+#0 /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php(38): AjaxConfiguracionReparaciones->ajaxEditarConfiguracionReparacion()
+#1 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php on line 22
+[24-Apr-2021 07:23:18 UTC] PHP Fatal error:  Uncaught Error: Class 'ControladorConfiguradorReparaciones' not found in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php:22
+Stack trace:
+#0 /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php(38): AjaxConfiguracionReparaciones->ajaxEditarConfiguracionReparacion()
+#1 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php on line 22
+[24-Apr-2021 07:23:32 UTC] PHP Fatal error:  Uncaught Error: Class 'ControladorConfiguradorReparaciones' not found in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php:22
+Stack trace:
+#0 /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php(38): AjaxConfiguracionReparaciones->ajaxEditarConfiguracionReparacion()
+#1 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php on line 22
+[24-Apr-2021 07:23:54 UTC] PHP Fatal error:  Uncaught Error: Class 'ControladorConfiguradorReparaciones' not found in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php:22
+Stack trace:
+#0 /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php(38): AjaxConfiguracionReparaciones->ajaxEditarConfiguracionReparacion()
+#1 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php on line 22
+[24-Apr-2021 07:24:03 UTC] PHP Fatal error:  Uncaught Error: Class 'ControladorConfiguradorReparaciones' not found in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php:22
+Stack trace:
+#0 /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php(38): AjaxConfiguracionReparaciones->ajaxEditarConfiguracionReparacion()
+#1 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php on line 22
+[24-Apr-2021 07:33:58 UTC] PHP Fatal error:  Uncaught Error: Class 'ControladorConfiguradorReparaciones' not found in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php:22
+Stack trace:
+#0 /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php(38): AjaxConfiguracionReparaciones->ajaxEditarConfiguracionReparacion()
+#1 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php on line 22
+[24-Apr-2021 07:34:24 UTC] PHP Fatal error:  Uncaught Error: Class 'ControladorConfiguradorReparaciones' not found in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php:22
+Stack trace:
+#0 /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php(38): AjaxConfiguracionReparaciones->ajaxEditarConfiguracionReparacion()
+#1 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php on line 22
+[24-Apr-2021 12:36:58 UTC] PHP Fatal error:  Uncaught Error: Class 'ControladorConfiguradorReparaciones' not found in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php:22
+Stack trace:
+#0 /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php(38): AjaxConfiguracionReparaciones->ajaxEditarConfiguracionReparacion()
+#1 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php on line 22
+[24-Apr-2021 12:37:15 UTC] PHP Fatal error:  Uncaught Error: Class 'ControladorConfiguradorReparaciones' not found in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php:22
+Stack trace:
+#0 /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php(38): AjaxConfiguracionReparaciones->ajaxEditarConfiguracionReparacion()
+#1 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php on line 22
+[24-Apr-2021 12:37:26 UTC] PHP Fatal error:  Uncaught Error: Class 'ControladorConfiguradorReparaciones' not found in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php:22
+Stack trace:
+#0 /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php(38): AjaxConfiguracionReparaciones->ajaxEditarConfiguracionReparacion()
+#1 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php on line 22
+[24-Apr-2021 13:48:13 UTC] PHP Fatal error:  Uncaught Error: Class 'ControladorConfiguradorReparaciones' not found in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php:22
+Stack trace:
+#0 /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php(38): AjaxConfiguracionReparaciones->ajaxEditarConfiguracionReparacion()
+#1 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php on line 22
+[24-Apr-2021 16:45:25 UTC] PHP Fatal error:  Uncaught Error: Class 'ControladorConfiguradorReparaciones' not found in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php:22
+Stack trace:
+#0 /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php(38): AjaxConfiguracionReparaciones->ajaxEditarConfiguracionReparacion()
+#1 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php on line 22
+[24-Apr-2021 17:48:26 UTC] PHP Fatal error:  Uncaught Error: Class 'ControladorConfiguradorReparaciones' not found in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php:22
+Stack trace:
+#0 /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php(38): AjaxConfiguracionReparaciones->ajaxEditarConfiguracionReparacion()
+#1 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php on line 22
+[29-Apr-2021 21:01:44 UTC] PHP Fatal error:  Uncaught Error: Class 'ControladorConfiguradorReparaciones' not found in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php:22
+Stack trace:
+#0 /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php(38): AjaxConfiguracionReparaciones->ajaxEditarConfiguracionReparacion()
+#1 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php on line 22
+[29-Apr-2021 21:10:51 UTC] PHP Fatal error:  Uncaught Error: Class 'ControladorConfiguradorReparaciones' not found in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php:22
+Stack trace:
+#0 /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php(38): AjaxConfiguracionReparaciones->ajaxEditarConfiguracionReparacion()
+#1 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php on line 22
+[30-Apr-2021 06:50:30 UTC] PHP Fatal error:  Uncaught Error: Class 'ControladorConfiguradorReparaciones' not found in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php:22
+Stack trace:
+#0 /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php(38): AjaxConfiguracionReparaciones->ajaxEditarConfiguracionReparacion()
+#1 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php on line 22
+[03-May-2021 21:37:57 UTC] PHP Fatal error:  Uncaught Error: Class 'ControladorConfiguradorReparaciones' not found in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php:22
+Stack trace:
+#0 /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php(38): AjaxConfiguracionReparaciones->ajaxEditarConfiguracionReparacion()
+#1 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php on line 22
+[04-May-2021 00:02:04 UTC] PHP Fatal error:  Uncaught Error: Class 'ControladorConfiguradorReparaciones' not found in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php:22
+Stack trace:
+#0 /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php(38): AjaxConfiguracionReparaciones->ajaxEditarConfiguracionReparacion()
+#1 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php on line 22
+[04-May-2021 00:02:12 UTC] PHP Fatal error:  Uncaught Error: Class 'ControladorConfiguradorReparaciones' not found in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php:22
+Stack trace:
+#0 /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php(38): AjaxConfiguracionReparaciones->ajaxEditarConfiguracionReparacion()
+#1 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php on line 22
+[04-May-2021 20:21:59 UTC] PHP Fatal error:  Uncaught Error: Class 'ControladorConfiguradorReparaciones' not found in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php:22
+Stack trace:
+#0 /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php(38): AjaxConfiguracionReparaciones->ajaxEditarConfiguracionReparacion()
+#1 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php on line 22
+[04-May-2021 20:25:00 UTC] PHP Fatal error:  Uncaught Error: Class 'ControladorConfiguradorReparaciones' not found in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php:22
+Stack trace:
+#0 /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php(38): AjaxConfiguracionReparaciones->ajaxEditarConfiguracionReparacion()
+#1 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php on line 22
+[04-May-2021 20:25:39 UTC] PHP Fatal error:  Uncaught Error: Class 'ControladorConfiguradorReparaciones' not found in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php:22
+Stack trace:
+#0 /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php(38): AjaxConfiguracionReparaciones->ajaxEditarConfiguracionReparacion()
+#1 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php on line 22
+[04-May-2021 21:28:16 UTC] PHP Fatal error:  Uncaught Error: Class 'ControladorConfiguradorReparaciones' not found in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php:22
+Stack trace:
+#0 /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php(38): AjaxConfiguracionReparaciones->ajaxEditarConfiguracionReparacion()
+#1 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php on line 22
+[04-May-2021 22:00:59 UTC] PHP Fatal error:  Uncaught Error: Class 'ControladorConfiguradorReparaciones' not found in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php:22
+Stack trace:
+#0 /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php(38): AjaxConfiguracionReparaciones->ajaxEditarConfiguracionReparacion()
+#1 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php on line 22
+[05-May-2021 22:48:06 UTC] PHP Fatal error:  Uncaught Error: Class 'ControladorConfiguradorReparaciones' not found in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php:22
+Stack trace:
+#0 /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php(38): AjaxConfiguracionReparaciones->ajaxEditarConfiguracionReparacion()
+#1 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php on line 22
+[07-May-2021 23:45:31 UTC] PHP Fatal error:  Uncaught Error: Class 'ControladorConfiguradorReparaciones' not found in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php:22
+Stack trace:
+#0 /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php(38): AjaxConfiguracionReparaciones->ajaxEditarConfiguracionReparacion()
+#1 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php on line 22
+[07-May-2021 23:45:56 UTC] PHP Fatal error:  Uncaught Error: Class 'ControladorConfiguradorReparaciones' not found in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php:22
+Stack trace:
+#0 /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php(38): AjaxConfiguracionReparaciones->ajaxEditarConfiguracionReparacion()
+#1 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php on line 22
+[07-May-2021 23:46:11 UTC] PHP Fatal error:  Uncaught Error: Class 'ControladorConfiguradorReparaciones' not found in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php:22
+Stack trace:
+#0 /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php(38): AjaxConfiguracionReparaciones->ajaxEditarConfiguracionReparacion()
+#1 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php on line 22
+[08-May-2021 19:24:27 UTC] PHP Fatal error:  Uncaught Error: Class 'ControladorConfiguradorReparaciones' not found in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php:22
+Stack trace:
+#0 /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php(38): AjaxConfiguracionReparaciones->ajaxEditarConfiguracionReparacion()
+#1 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php on line 22
+[08-May-2021 19:24:34 UTC] PHP Fatal error:  Uncaught Error: Class 'ControladorConfiguradorReparaciones' not found in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php:22
+Stack trace:
+#0 /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php(38): AjaxConfiguracionReparaciones->ajaxEditarConfiguracionReparacion()
+#1 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php on line 22
+[08-May-2021 19:42:15 UTC] PHP Fatal error:  Uncaught Error: Class 'ControladorConfiguradorReparaciones' not found in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php:22
+Stack trace:
+#0 /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php(38): AjaxConfiguracionReparaciones->ajaxEditarConfiguracionReparacion()
+#1 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php on line 22
+[12-May-2021 17:33:15 UTC] PHP Fatal error:  Uncaught Error: Class 'ControladorConfiguradorReparaciones' not found in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php:22
+Stack trace:
+#0 /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php(38): AjaxConfiguracionReparaciones->ajaxEditarConfiguracionReparacion()
+#1 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php on line 22
+[12-May-2021 22:08:49 UTC] PHP Fatal error:  Uncaught Error: Class 'ControladorConfiguradorReparaciones' not found in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php:22
+Stack trace:
+#0 /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php(38): AjaxConfiguracionReparaciones->ajaxEditarConfiguracionReparacion()
+#1 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php on line 22
+[12-May-2021 22:09:21 UTC] PHP Fatal error:  Uncaught Error: Class 'ControladorConfiguradorReparaciones' not found in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php:22
+Stack trace:
+#0 /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php(38): AjaxConfiguracionReparaciones->ajaxEditarConfiguracionReparacion()
+#1 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php on line 22
+[12-May-2021 22:09:22 UTC] PHP Fatal error:  Uncaught Error: Class 'ControladorConfiguradorReparaciones' not found in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php:22
+Stack trace:
+#0 /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php(38): AjaxConfiguracionReparaciones->ajaxEditarConfiguracionReparacion()
+#1 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php on line 22
+[12-May-2021 23:50:36 UTC] PHP Fatal error:  Uncaught Error: Class 'ControladorConfiguradorReparaciones' not found in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php:22
+Stack trace:
+#0 /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php(38): AjaxConfiguracionReparaciones->ajaxEditarConfiguracionReparacion()
+#1 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php on line 22
+[14-May-2021 16:17:23 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/mixst936/public_html/pos/modelos/conexion.php:9
+Stack trace:
+#0 /home/mixst936/public_html/pos/modelos/conexion.php(9): PDO->__construct('mysql:host=loca...', 'mixst936', '8BqtF87c8ZDAjA2')
+#1 /home/mixst936/public_html/pos/modelos/cotizaciones.modelo.php(25): Conexion::conectar()
+#2 /home/mixst936/public_html/pos/controladores/cotizaciones.controlador.php(13): ModeloCotizaciones::mdlMostrarCotizaciones('cotizacion', NULL, NULL)
+#3 /home/mixst936/public_html/pos/ajax/datatable-cotizaciones.ajax.php(19): ControladorCotizaciones::ctrMostrarCotizaciones(NULL, NULL)
+#4 /home/mixst936/public_html/pos/ajax/datatable-cotizaciones.ajax.php(128): TablaCotizaciones->mostrarTablaCotizaciones()
+#5 {main}
+  thrown in /home/mixst936/public_html/pos/modelos/conexion.php on line 9
+[14-May-2021 16:17:28 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/mixst936/public_html/pos/modelos/conexion.php:9
+Stack trace:
+#0 /home/mixst936/public_html/pos/modelos/conexion.php(9): PDO->__construct('mysql:host=loca...', 'mixst936', '8BqtF87c8ZDAjA2')
+#1 /home/mixst936/public_html/pos/modelos/cotizaciones.modelo.php(25): Conexion::conectar()
+#2 /home/mixst936/public_html/pos/controladores/cotizaciones.controlador.php(13): ModeloCotizaciones::mdlMostrarCotizaciones('cotizacion', NULL, NULL)
+#3 /home/mixst936/public_html/pos/ajax/datatable-cotizaciones.ajax.php(19): ControladorCotizaciones::ctrMostrarCotizaciones(NULL, NULL)
+#4 /home/mixst936/public_html/pos/ajax/datatable-cotizaciones.ajax.php(128): TablaCotizaciones->mostrarTablaCotizaciones()
+#5 {main}
+  thrown in /home/mixst936/public_html/pos/modelos/conexion.php on line 9
+[17-May-2021 21:22:03 UTC] PHP Fatal error:  Uncaught Error: Class 'ControladorConfiguradorReparaciones' not found in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php:22
+Stack trace:
+#0 /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php(38): AjaxConfiguracionReparaciones->ajaxEditarConfiguracionReparacion()
+#1 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php on line 22
+[18-May-2021 19:19:03 UTC] PHP Fatal error:  Uncaught Error: Class 'ControladorConfiguradorReparaciones' not found in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php:22
+Stack trace:
+#0 /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php(38): AjaxConfiguracionReparaciones->ajaxEditarConfiguracionReparacion()
+#1 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php on line 22
+[18-May-2021 19:39:36 UTC] PHP Fatal error:  Uncaught Error: Class 'ControladorConfiguradorReparaciones' not found in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php:22
+Stack trace:
+#0 /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php(38): AjaxConfiguracionReparaciones->ajaxEditarConfiguracionReparacion()
+#1 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php on line 22
+[28-May-2021 21:58:17 UTC] PHP Fatal error:  Uncaught Error: Class 'ControladorConfiguradorReparaciones' not found in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php:22
+Stack trace:
+#0 /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php(38): AjaxConfiguracionReparaciones->ajaxEditarConfiguracionReparacion()
+#1 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php on line 22
+[15-Jun-2021 23:24:46 UTC] PHP Fatal error:  Uncaught Error: Class 'ControladorConfiguradorReparaciones' not found in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php:22
+Stack trace:
+#0 /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php(38): AjaxConfiguracionReparaciones->ajaxEditarConfiguracionReparacion()
+#1 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php on line 22
+[16-Jun-2021 01:18:06 UTC] PHP Fatal error:  Uncaught Error: Class 'ControladorConfiguradorReparaciones' not found in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php:22
+Stack trace:
+#0 /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php(38): AjaxConfiguracionReparaciones->ajaxEditarConfiguracionReparacion()
+#1 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php on line 22
+[18-Jun-2021 21:07:57 UTC] PHP Fatal error:  Uncaught Error: Class 'ControladorConfiguradorReparaciones' not found in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php:22
+Stack trace:
+#0 /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php(38): AjaxConfiguracionReparaciones->ajaxEditarConfiguracionReparacion()
+#1 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php on line 22
+[29-Jun-2021 22:08:23 UTC] PHP Fatal error:  Uncaught Error: Class 'ControladorConfiguradorReparaciones' not found in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php:22
+Stack trace:
+#0 /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php(38): AjaxConfiguracionReparaciones->ajaxEditarConfiguracionReparacion()
+#1 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php on line 22
+[29-Jun-2021 22:19:31 UTC] PHP Fatal error:  Uncaught Error: Class 'ControladorConfiguradorReparaciones' not found in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php:22
+Stack trace:
+#0 /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php(38): AjaxConfiguracionReparaciones->ajaxEditarConfiguracionReparacion()
+#1 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php on line 22
+[29-Jun-2021 22:19:58 UTC] PHP Fatal error:  Uncaught Error: Class 'ControladorConfiguradorReparaciones' not found in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php:22
+Stack trace:
+#0 /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php(38): AjaxConfiguracionReparaciones->ajaxEditarConfiguracionReparacion()
+#1 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php on line 22
+[01-Jul-2021 05:40:40 UTC] PHP Fatal error:  Uncaught Error: Class 'ControladorConfiguradorReparaciones' not found in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php:22
+Stack trace:
+#0 /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php(38): AjaxConfiguracionReparaciones->ajaxEditarConfiguracionReparacion()
+#1 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php on line 22
+[08-Jul-2021 21:56:35 UTC] PHP Fatal error:  Uncaught Error: Class 'ControladorConfiguradorReparaciones' not found in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php:22
+Stack trace:
+#0 /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php(38): AjaxConfiguracionReparaciones->ajaxEditarConfiguracionReparacion()
+#1 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php on line 22
+[08-Jul-2021 23:21:59 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/mixst936/public_html/pos/modelos/conexion.php:9
+Stack trace:
+#0 /home/mixst936/public_html/pos/modelos/conexion.php(9): PDO->__construct('mysql:host=loca...', 'mixst936', '8BqtF87c8ZDAjA2')
+#1 /home/mixst936/public_html/pos/modelos/categorias.modelo.php(40): Conexion::conectar()
+#2 /home/mixst936/public_html/pos/controladores/categorias.controlador.php(109): ModeloCategorias::mdlMostrarCategorias('categorias', 'id', '19')
+#3 /home/mixst936/public_html/pos/ajax/datatable-productos.ajax.php(80): ControladorCategorias::ctrMostrarCategorias('id', '19')
+#4 /home/mixst936/public_html/pos/ajax/datatable-productos.ajax.php(212): TablaProductos->mostrarTablaProductos()
+#5 {main}
+  thrown in /home/mixst936/public_html/pos/modelos/conexion.php on line 9
+[08-Jul-2021 23:22:02 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/mixst936/public_html/pos/modelos/conexion.php:9
+Stack trace:
+#0 /home/mixst936/public_html/pos/modelos/conexion.php(9): PDO->__construct('mysql:host=loca...', 'mixst936', '8BqtF87c8ZDAjA2')
+#1 /home/mixst936/public_html/pos/modelos/productos.modelo.php(15): Conexion::conectar()
+#2 /home/mixst936/public_html/pos/controladores/productos.controlador.php(13): ModeloProductos::mdlMostrarProductos('productos', 'codigo', '4373')
+#3 /home/mixst936/public_html/pos/ajax/productos.ajax.php(103): ControladorProductos::ctrMostrarProductos('codigo', '4373')
+#4 /home/mixst936/public_html/pos/ajax/productos.ajax.php(250): AjaxProductos->ajaxInvetarioProducto()
+#5 {main}
+  thrown in /home/mixst936/public_html/pos/modelos/conexion.php on line 9
+[10-Jul-2021 21:37:39 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/mixst936/public_html/pos/modelos/conexion.php:9
+Stack trace:
+#0 /home/mixst936/public_html/pos/modelos/conexion.php(9): PDO->__construct('mysql:host=loca...', 'mixst936', '8BqtF87c8ZDAjA2')
+#1 /home/mixst936/public_html/pos/modelos/categorias.modelo.php(420): Conexion::conectar()
+#2 /home/mixst936/public_html/pos/controladores/categorias.controlador.php(1278): ModeloCategorias::mdlMostrarDiseño('dise\xC3\xB1os', 'id', '32')
+#3 /home/mixst936/public_html/pos/ajax/datatable-ventas.ajax.php(158): ControladorCategorias::ctrMostrarDiseño('id', '32')
+#4 /home/mixst936/public_html/pos/ajax/datatable-ventas.ajax.php(198): TablaProductosVentas->mostrarTablaProductosVentas()
+#5 {main}
+  thrown in /home/mixst936/public_html/pos/modelos/conexion.php on line 9
+[12-Jul-2021 20:46:38 UTC] PHP Fatal error:  Uncaught Error: Class 'ControladorConfiguradorReparaciones' not found in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php:22
+Stack trace:
+#0 /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php(38): AjaxConfiguracionReparaciones->ajaxEditarConfiguracionReparacion()
+#1 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php on line 22
+[14-Dec-2021 21:41:20 UTC] PHP Fatal error:  Uncaught Error: Class 'ControladorConfiguradorReparaciones' not found in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php:22
+Stack trace:
+#0 /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php(38): AjaxConfiguracionReparaciones->ajaxEditarConfiguracionReparacion()
+#1 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php on line 22
+[07-Jan-2022 00:31:56 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/mixst936/public_html/pos/modelos/conexion.php:9
+Stack trace:
+#0 /home/mixst936/public_html/pos/modelos/conexion.php(9): PDO->__construct('mysql:host=loca...', 'mixst936', '8BqtF87c8ZDAjA2')
+#1 /home/mixst936/public_html/pos/modelos/reparaciones.modelo.php(15): Conexion::conectar()
+#2 /home/mixst936/public_html/pos/controladores/reparaciones.controlador.php(18): ModeloReparaciones::mdlMostrarReparaciones('reparaciones', 'id', '3658')
+#3 /home/mixst936/public_html/pos/ajax/reparaciones.ajax.php(22): ControladorReparaciones::ctrMostrarReparaciones('id', '3658')
+#4 /home/mixst936/public_html/pos/ajax/reparaciones.ajax.php(38): AjaxReparaciones->ajaxEditarReparacion()
+#5 {main}
+  thrown in /home/mixst936/public_html/pos/modelos/conexion.php on line 9
+[07-Jan-2022 00:31:56 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/mixst936/public_html/pos/modelos/conexion.php:9
+Stack trace:
+#0 /home/mixst936/public_html/pos/modelos/conexion.php(9): PDO->__construct('mysql:host=loca...', 'mixst936', '8BqtF87c8ZDAjA2')
+#1 /home/mixst936/public_html/pos/modelos/reparaciones.modelo.php(15): Conexion::conectar()
+#2 /home/mixst936/public_html/pos/controladores/reparaciones.controlador.php(18): ModeloReparaciones::mdlMostrarReparaciones('reparaciones', 'id', '3658')
+#3 /home/mixst936/public_html/pos/ajax/reparaciones.ajax.php(22): ControladorReparaciones::ctrMostrarReparaciones('id', '3658')
+#4 /home/mixst936/public_html/pos/ajax/reparaciones.ajax.php(38): AjaxReparaciones->ajaxEditarReparacion()
+#5 {main}
+  thrown in /home/mixst936/public_html/pos/modelos/conexion.php on line 9
+[07-Jan-2022 00:31:56 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/mixst936/public_html/pos/modelos/conexion.php:9
+Stack trace:
+#0 /home/mixst936/public_html/pos/modelos/conexion.php(9): PDO->__construct('mysql:host=loca...', 'mixst936', '8BqtF87c8ZDAjA2')
+#1 /home/mixst936/public_html/pos/modelos/reparaciones.modelo.php(15): Conexion::conectar()
+#2 /home/mixst936/public_html/pos/controladores/reparaciones.controlador.php(18): ModeloReparaciones::mdlMostrarReparaciones('reparaciones', 'id', '3658')
+#3 /home/mixst936/public_html/pos/ajax/reparaciones.ajax.php(22): ControladorReparaciones::ctrMostrarReparaciones('id', '3658')
+#4 /home/mixst936/public_html/pos/ajax/reparaciones.ajax.php(38): AjaxReparaciones->ajaxEditarReparacion()
+#5 {main}
+  thrown in /home/mixst936/public_html/pos/modelos/conexion.php on line 9
+[07-Jan-2022 00:31:56 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/mixst936/public_html/pos/modelos/conexion.php:9
+Stack trace:
+#0 /home/mixst936/public_html/pos/modelos/conexion.php(9): PDO->__construct('mysql:host=loca...', 'mixst936', '8BqtF87c8ZDAjA2')
+#1 /home/mixst936/public_html/pos/modelos/reparaciones.modelo.php(15): Conexion::conectar()
+#2 /home/mixst936/public_html/pos/controladores/reparaciones.controlador.php(18): ModeloReparaciones::mdlMostrarReparaciones('reparaciones', 'id', '3658')
+#3 /home/mixst936/public_html/pos/ajax/reparaciones.ajax.php(22): ControladorReparaciones::ctrMostrarReparaciones('id', '3658')
+#4 /home/mixst936/public_html/pos/ajax/reparaciones.ajax.php(38): AjaxReparaciones->ajaxEditarReparacion()
+#5 {main}
+  thrown in /home/mixst936/public_html/pos/modelos/conexion.php on line 9
+[07-Jan-2022 00:31:56 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/mixst936/public_html/pos/modelos/conexion.php:9
+Stack trace:
+#0 /home/mixst936/public_html/pos/modelos/conexion.php(9): PDO->__construct('mysql:host=loca...', 'mixst936', '8BqtF87c8ZDAjA2')
+#1 /home/mixst936/public_html/pos/modelos/reparaciones.modelo.php(15): Conexion::conectar()
+#2 /home/mixst936/public_html/pos/controladores/reparaciones.controlador.php(18): ModeloReparaciones::mdlMostrarReparaciones('reparaciones', 'id', '3658')
+#3 /home/mixst936/public_html/pos/ajax/reparaciones.ajax.php(22): ControladorReparaciones::ctrMostrarReparaciones('id', '3658')
+#4 /home/mixst936/public_html/pos/ajax/reparaciones.ajax.php(38): AjaxReparaciones->ajaxEditarReparacion()
+#5 {main}
+  thrown in /home/mixst936/public_html/pos/modelos/conexion.php on line 9
+[07-Jan-2022 00:31:56 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/mixst936/public_html/pos/modelos/conexion.php:9
+Stack trace:
+#0 /home/mixst936/public_html/pos/modelos/conexion.php(9): PDO->__construct('mysql:host=loca...', 'mixst936', '8BqtF87c8ZDAjA2')
+#1 /home/mixst936/public_html/pos/modelos/reparaciones.modelo.php(15): Conexion::conectar()
+#2 /home/mixst936/public_html/pos/controladores/reparaciones.controlador.php(18): ModeloReparaciones::mdlMostrarReparaciones('reparaciones', 'id', '3658')
+#3 /home/mixst936/public_html/pos/ajax/reparaciones.ajax.php(22): ControladorReparaciones::ctrMostrarReparaciones('id', '3658')
+#4 /home/mixst936/public_html/pos/ajax/reparaciones.ajax.php(38): AjaxReparaciones->ajaxEditarReparacion()
+#5 {main}
+  thrown in /home/mixst936/public_html/pos/modelos/conexion.php on line 9
+[07-Jan-2022 00:39:30 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/mixst936/public_html/pos/modelos/conexion.php:9
+Stack trace:
+#0 /home/mixst936/public_html/pos/modelos/conexion.php(9): PDO->__construct('mysql:host=loca...', 'mixst936', '8BqtF87c8ZDAjA2')
+#1 /home/mixst936/public_html/pos/modelos/categorias.modelo.php(244): Conexion::conectar()
+#2 /home/mixst936/public_html/pos/controladores/categorias.controlador.php(500): ModeloCategorias::mdlMostrarModelos('modelos', 'codigo', '1058')
+#3 /home/mixst936/public_html/pos/ajax/datatable-productos.ajax.php(98): ControladorCategorias::ctrMostrarModelos('codigo', '1058')
+#4 /home/mixst936/public_html/pos/ajax/datatable-productos.ajax.php(212): TablaProductos->mostrarTablaProductos()
+#5 {main}
+  thrown in /home/mixst936/public_html/pos/modelos/conexion.php on line 9
+[13-Jan-2022 23:26:43 UTC] PHP Fatal error:  Uncaught Error: Class 'ControladorConfiguradorReparaciones' not found in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php:22
+Stack trace:
+#0 /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php(38): AjaxConfiguracionReparaciones->ajaxEditarConfiguracionReparacion()
+#1 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php on line 22
+[13-Jan-2022 23:27:01 UTC] PHP Fatal error:  Uncaught Error: Class 'ControladorConfiguradorReparaciones' not found in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php:22
+Stack trace:
+#0 /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php(38): AjaxConfiguracionReparaciones->ajaxEditarConfiguracionReparacion()
+#1 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php on line 22
+[13-Jan-2022 23:50:41 UTC] PHP Fatal error:  Uncaught Error: Class 'ControladorConfiguradorReparaciones' not found in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php:22
+Stack trace:
+#0 /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php(38): AjaxConfiguracionReparaciones->ajaxEditarConfiguracionReparacion()
+#1 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php on line 22
+[13-Jan-2022 23:50:45 UTC] PHP Fatal error:  Uncaught Error: Class 'ControladorConfiguradorReparaciones' not found in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php:22
+Stack trace:
+#0 /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php(38): AjaxConfiguracionReparaciones->ajaxEditarConfiguracionReparacion()
+#1 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php on line 22
+[13-Jan-2022 23:51:04 UTC] PHP Fatal error:  Uncaught Error: Class 'ControladorConfiguradorReparaciones' not found in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php:22
+Stack trace:
+#0 /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php(38): AjaxConfiguracionReparaciones->ajaxEditarConfiguracionReparacion()
+#1 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php on line 22
+[18-Jan-2022 16:55:37 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/mixst936/public_html/pos/modelos/conexion.php:9
+Stack trace:
+#0 /home/mixst936/public_html/pos/modelos/conexion.php(9): PDO->__construct('mysql:host=loca...', 'mixst936', '8BqtF87c8ZDAjA2')
+#1 /home/mixst936/public_html/pos/modelos/categorias.modelo.php(40): Conexion::conectar()
+#2 /home/mixst936/public_html/pos/controladores/categorias.controlador.php(109): ModeloCategorias::mdlMostrarCategorias('categorias', 'id', '27')
+#3 /home/mixst936/public_html/pos/ajax/datatable-ventas.ajax.php(91): ControladorCategorias::ctrMostrarCategorias('id', '27')
+#4 /home/mixst936/public_html/pos/ajax/datatable-ventas.ajax.php(201): TablaProductosVentas->mostrarTablaProductosVentas()
+#5 {main}
+  thrown in /home/mixst936/public_html/pos/modelos/conexion.php on line 9
+[18-Jan-2022 16:55:44 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/mixst936/public_html/pos/modelos/conexion.php:9
+Stack trace:
+#0 /home/mixst936/public_html/pos/modelos/conexion.php(9): PDO->__construct('mysql:host=loca...', 'mixst936', '8BqtF87c8ZDAjA2')
+#1 /home/mixst936/public_html/pos/modelos/productos.modelo.php(15): Conexion::conectar()
+#2 /home/mixst936/public_html/pos/controladores/productos.controlador.php(13): ModeloProductos::mdlMostrarProductos('productos', 'codigo', '3038154')
+#3 /home/mixst936/public_html/pos/ajax/datatable-ventas.ajax.php(80): ControladorProductos::ctrMostrarProductos('codigo', '3038154')
+#4 /home/mixst936/public_html/pos/ajax/datatable-ventas.ajax.php(201): TablaProductosVentas->mostrarTablaProductosVentas()
+#5 {main}
+  thrown in /home/mixst936/public_html/pos/modelos/conexion.php on line 9
+[20-Jan-2022 19:34:55 UTC] PHP Fatal error:  Uncaught Error: Class 'ControladorConfiguradorReparaciones' not found in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php:22
+Stack trace:
+#0 /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php(38): AjaxConfiguracionReparaciones->ajaxEditarConfiguracionReparacion()
+#1 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php on line 22
+[24-Jan-2022 19:50:10 UTC] PHP Fatal error:  Uncaught Error: Class 'ControladorConfiguradorReparaciones' not found in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php:22
+Stack trace:
+#0 /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php(38): AjaxConfiguracionReparaciones->ajaxEditarConfiguracionReparacion()
+#1 {main}
+  thrown in /home/mixst936/public_html/pos/ajax/configuracion-reparaciones.ajax.php on line 22
