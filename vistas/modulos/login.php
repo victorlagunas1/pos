@@ -39,7 +39,7 @@
     
 
   </div>
-  <span class="label label-warning pull-right">Versión 1.7.0</span>
+  <span class="label label-warning pull-right">Versión 1.8.0</span>
   <!-- /.login-box-body -->
 </div>
 <!-- /.login-box -->
