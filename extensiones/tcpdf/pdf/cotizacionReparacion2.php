@@ -303,8 +303,7 @@ $pdf_string = $pdf->Output('', 'S');
    $imagick->readImageBlob($pdf_string);
    $imagick->setImageFormat("jpeg");
 
-   header("Content-Type: image/jpeg");
-   echo $imagick->getImageBlob();
+   
 
 }
 
