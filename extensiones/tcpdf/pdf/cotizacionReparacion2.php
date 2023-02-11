@@ -72,7 +72,7 @@ public function traerImpresionNota(){
 require_once('tcpdf_include.php');
 
 $pdf = new TCPDF($orientation='L',$unit='mm', array(130,200));
-
+$pdf_string = $pdf->Output('', 'S');
 
 
 $pdf->SetMargins(0,0,0,true);
@@ -298,6 +298,10 @@ $pdf->writeHTML($bloque14, false, false, false, false, '');
 
 $pdf->Output('Cotizacion Reparacion.pdf');
 
+$imagick = new \Imagick();
+$imagick->readImageBlob($pdf_string);
+$imagick->setImageFormat("jpeg");
+
 }
 
 }
@@ -305,5 +309,8 @@ $pdf->Output('Cotizacion Reparacion.pdf');
 $nota = new imprimirNota();
 $nota -> codigo = $_GET["codigo"];
 $nota -> traerImpresionNota();
+
+header("Content-Type: image/jpeg");
+   echo $imagick->getImageBlob();
 
 ?>
