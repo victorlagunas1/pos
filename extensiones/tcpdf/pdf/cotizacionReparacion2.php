@@ -304,7 +304,7 @@ $pdf->Output('Cotizacion Reparacion.pdf');
    $imagick->readImageBlob($pdf_string);
    $imagick->setImageFormat("jpeg");
 
-	$imagick->readImage($pdf);
+	$imagick->readImage($pdf_string);
 
   header("Content-Type: image/png");
 	echo $imagick->getImageBlob();
