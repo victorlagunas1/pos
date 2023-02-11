@@ -302,6 +302,12 @@ $pdf_string = $pdf->Output('', 'S');
 	$imagick = new \Imagick();
    $imagick->readImageBlob($pdf_string);
    $imagick->setImageFormat("jpeg");
+	
+   $pngfn='myfile.png';
+	$imagick->readImage($pngfn);
+
+  header("Content-Type: image/png");
+	echo $imagick->getImageBlob();
 
    
 
