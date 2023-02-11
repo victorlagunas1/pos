@@ -296,19 +296,6 @@ $pdf->writeHTML($bloque14, false, false, false, false, '');
 
 //SALIDA DEL ARCHIVO 
 
-
-$pdf_string = $pdf->Output('Imagen', 'S');
-
-   $imagick = new \Imagick();
-   $imagick->readImageBlob($pdf_string);
-   $imagick->setImageFormat("jpeg");
-
-	$imagick->readImage($pdf_string);
-	
-	  header("Content-Type: image/png");
-	echo $imagick->getImageBlob();
-
-
 $pdf->Output('Cotizacion Reparacion.pdf');   
 
 }
