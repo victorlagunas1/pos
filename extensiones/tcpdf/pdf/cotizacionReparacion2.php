@@ -297,15 +297,17 @@ $pdf->writeHTML($bloque14, false, false, false, false, '');
 //SALIDA DEL ARCHIVO 
 
 $pdf->Output('Cotizacion Reparacion.pdf');
-$pdf_string = $pdf->Output('', 'S');
 
-	$im = new Imagick();
-$im->newPseudoImage(100, 100, "magick:rose");
-$im->setImageFormat("png");
-$im->roundCorners(5,3);
-$type=$im->getFormat();
-header("Content-type: $type");
-echo $im->getimageblob();
+	$pdf_string = $pdf->Output('', 'S');
+
+   $imagick = new \Imagick();
+   $imagick->readImageBlob($pdf_string);
+   $imagick->setImageFormat("jpeg");
+
+	$imagick->readImage($pdf);
+
+  header("Content-Type: image/png");
+	echo $imagick->getImageBlob();
 
    
 
