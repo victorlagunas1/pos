@@ -296,9 +296,8 @@ $pdf->writeHTML($bloque14, false, false, false, false, '');
 
 //SALIDA DEL ARCHIVO 
 
-$pdf->Output('Cotizacion Reparacion.pdf');
-
-	$pdf_string = $pdf->Output('', 'S');
+//$pdf->Output('Cotizacion Reparacion.pdf');
+$pdf_string = $pdf->Output('Imagen', 'S');
 
    $imagick = new \Imagick();
    $imagick->readImageBlob($pdf_string);
