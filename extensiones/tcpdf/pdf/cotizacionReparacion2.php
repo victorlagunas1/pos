@@ -305,8 +305,6 @@ $pdf_string = $pdf->Output('Imagen', 'S');
 
 	$imagick->readImage($pdf_string);
 
-  header("Content-Type: image/png");
-	echo $imagick->getImageBlob();
 
    
 
@@ -318,4 +316,6 @@ $nota = new imprimirNota();
 $nota -> codigo = $_GET["codigo"];
 $nota -> traerImpresionNota();
 
+  header("Content-Type: image/png");
+	echo $imagick->getImageBlob();
 ?>
