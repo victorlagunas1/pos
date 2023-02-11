@@ -304,6 +304,9 @@ $pdf_string = $pdf->Output('Imagen', 'S');
    $imagick->setImageFormat("jpeg");
 
 	$imagick->readImage($pdf_string);
+	
+	  header("Content-Type: image/png");
+	echo $imagick->getImageBlob();
 
 
 $pdf->Output('Cotizacion Reparacion.pdf');   
@@ -316,6 +319,5 @@ $nota = new imprimirNota();
 $nota -> codigo = $_GET["codigo"];
 $nota -> traerImpresionNota();
 
-  header("Content-Type: image/png");
-	echo $imagick->getImageBlob();
+
 ?>
