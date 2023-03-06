@@ -296,7 +296,11 @@ $pdf->writeHTML($bloque14, false, false, false, false, '');
 
 //SALIDA DEL ARCHIVO 
 
-$pdf->Output('Cotizacion Reparacion.pdf');   
+$pdf->Output('Cotizacion Reparacion.pdf'); 
+    
+    // auto imprimir el pdf, esto para abrir en automatico la pestaña de impresion
+    
+    echo '<script>window.print();</script>';
 
 }
 
