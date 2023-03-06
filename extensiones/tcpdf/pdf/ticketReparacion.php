@@ -250,7 +250,7 @@ $pdf->write1DBarcode("$traerReparacion[id]", 'C128', '', '', '', 20, 0.9, $style
 //SALIDA DEL ARCHIVO 
 
 $pdf->Output('ticketReparacion.pdf');
-
+    echo '<script>window.print();</script>';
 }
 
 }
