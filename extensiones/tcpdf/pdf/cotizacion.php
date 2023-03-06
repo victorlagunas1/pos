@@ -622,7 +622,10 @@ $pdf->write1DBarcode("$respuestaCotizacion[codigo]", 'C128', '', '', '', 18, 0.4
 
 $pdf->IncludeJS("print();");
 $pdf->Output('factura.pdf');
-
+ 
+    // auto imprimir el pdf, esto para abrir en automatico la pestaña de impresion
+    
+    echo '<script>window.print();</script>';
 
 }
 
