@@ -291,7 +291,16 @@ EOF;
 $pdf->writeHTML($bloque14, false, false, false, false, '');
 //$pdf->SetXY(700, 0);
 
+$pdf_string = $pdf->Output('', 'S');
 
+   // Convert PDF to image using Imagick
+   $imagick = new \Imagick();
+   $imagick->readImageBlob($pdf_string);
+   $imagick->setImageFormat("jpeg");
+
+   // Display image in browser
+   header("Content-Type: image/jpeg");
+   echo $imagick->getImageBlob();
 
 
 //SALIDA DEL ARCHIVO 
