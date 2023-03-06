@@ -638,7 +638,7 @@ function copyToClickBoard(){
 function ticketCotizacion() {
   var idReparacionCotizacion = document.getElementById("idCotizacionVistaModelo");
  
- window.open("extensiones/tcpdf/pdf/cotizacionReparacion.php?codigo="+idReparacionCotizacion.value, "_blank");
+ window.open("extensiones/tcpdf/pdf/cotizacionReparacion2.php?codigo="+idReparacionCotizacion.value, "_blank");
 
 
 }
